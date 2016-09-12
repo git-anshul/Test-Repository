@@ -1,2 +1,1 @@
-# Test-Repository
-Test Repository
+This is just a test file to check out the features of GitHub
